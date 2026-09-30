@@ -1,7 +1,8 @@
 # Proyecto — Estructuras de Datos 2026-2
 
-Repositorio base del proyecto del curso. **Haga fork de este
-repositorio** y trabaje sobre su copia.
+Repositorio base del proyecto del curso. El proyecto se hace en
+**grupos de hasta tres estudiantes**, con un repositorio por grupo:
+**haga fork de este repositorio** y trabajen sobre esa copia.
 
 El enunciado completo, con los cuatro escenarios, lo que se entrega en
 cada fecha y cómo se califica, está en
@@ -9,10 +10,12 @@ cada fecha y cómo se califica, está en
 
 ## Lo primero
 
-1. Fork de este repositorio con el botón **Fork**.
-2. Llene [`AUTOR.md`](AUTOR.md) con su nombre completo y su código. Sin
-   eso el repositorio no se puede asociar a nadie.
-3. Escriba en `AUTOR.md` cuál de los cuatro escenarios escogió.
+1. Un integrante hace fork de este repositorio con el botón **Fork**.
+2. En **Settings › Collaborators** agrega a los demás integrantes, para
+   que cada uno confirme con su propia cuenta.
+3. Llenan [`AUTOR.md`](AUTOR.md) con el nombre, el código y el usuario de
+   GitHub de los tres, y el escenario escogido. Sin eso el repositorio
+   no se puede asociar a nadie.
 
 ## Fechas
 
@@ -22,8 +25,11 @@ cada fecha y cómo se califica, está en
 | Final | lunes 16 de noviembre de 2026, 23:59 | 20 % con la sustentación |
 
 Se califica el último commit anterior a la hora de cierre. La historia
-de commits cuenta: un repositorio con un solo commit el día del cierre
-no muestra avance.
+de commits cuenta doble: dice si hubo avance —un repositorio con un
+solo commit el día del cierre no lo muestra— y dice quién hizo qué.
+Cada integrante confirma con su propia cuenta; todos los criterios son
+del grupo salvo la sustentación, que se pregunta y se califica por
+integrante.
 
 ## Qué va en cada carpeta
 
@@ -32,7 +38,7 @@ no muestra avance.
 | `informe/` | el informe, en LaTeX o Markdown, y su PDF |
 | `codigo/` | las fuentes en C o C++ y el `Makefile` |
 | `datos/` | las entradas de prueba y los datos de los experimentos |
-| `bitacora.md` | una entrada fechada por sesión de trabajo |
+| `bitacora.md` | una entrada fechada por sesión de trabajo, con quién trabajó |
 
 ## Cómo se compila
 
