@@ -1,5 +1,7 @@
 # Bitácora
 
+Va en `docs/`, como los informes.
+
 Una entrada por sesión de trabajo, con la fecha, quién trabajó, qué se
 hizo y qué quedó pendiente. La entrada más reciente va arriba.
 

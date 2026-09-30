@@ -2,9 +2,4 @@
 *.out
 *.exe
 a.out
-codigo/pruebas
-informe/*.aux
-informe/*.log
-informe/*.out
-informe/*.toc
-informe/*.synctex.gz
+codigo/proyecto

@@ -1,4 +1,5 @@
-// Punto de entrada del proyecto. Reemplace este archivo por el suyo.
+// Autores: Nombre1 Codigo1, Nombre2 Codigo2, Nombre3 Codigo3
+// Punto de entrada del proyecto. Reemplacen este archivo por el suyo.
 #include <cstdio>
 
 int main() {
