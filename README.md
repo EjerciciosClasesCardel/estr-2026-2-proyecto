@@ -22,8 +22,8 @@ su nota del proyecto es 0.0.
 
 **Escenario escogido:** A inventario
 
-- Estructura escrita desde cero:
-- Estructura de la biblioteca contra la que se compara:
+- Estructura escrita desde cero: lista enlazada simple (avance) y tabla hash con encadenamiento y clave entera (entrega final).
+- Estructura de la biblioteca contra la que se compara:`std::map`
 
 ## Lo primero
 
