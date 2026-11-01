@@ -16,11 +16,11 @@ su nota del proyecto es 0.0.
 
 | Nombre completo | Código | Correo institucional | Usuario de GitHub |
 |---|---|---|---|
-|  |  |  |  |
+| Sebastian Pulgarin | 9035866 | sebastianp344@javerianacali.edu.co | Sebastian344 |
 |  |  |  |  |
 |  |  |  |  |
 
-**Escenario escogido:** (A inventario / B frecuencias / C turnos / D índice)
+**Escenario escogido:** A inventario
 
 - Estructura escrita desde cero:
 - Estructura de la biblioteca contra la que se compara:
