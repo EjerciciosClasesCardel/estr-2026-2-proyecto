@@ -11,6 +11,12 @@ hizo y qué quedó pendiente. La entrada más reciente va arriba.
 - Qué hicimos:
 - Qué quedó pendiente:
 
+## 2026-11-02
+
+- Quiénes: Jesús Esteban Monroy
+- Qué hicimos: programa principal (`codigo/principal.cpp`) que lee las órdenes y responde usando solo la interfaz `Inventario`; `Fabrica` que crea la estructura concreta (en el avance, la lista); `Makefile` del curso ajustado con nuestras fuentes; `.gitignore` corregido para que los `.out` de `datos/` sí se suban.
+- Qué quedó pendiente: integrar `ListaArticulos.cpp` , casos de prueba , correr `make pruebas` y valgrind, informe de avanc.
+
 ## 2026-10-27
 
 - Quiénes: Jesús Esteban Monroy
