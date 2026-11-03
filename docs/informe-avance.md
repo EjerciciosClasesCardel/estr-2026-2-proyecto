@@ -61,7 +61,7 @@ Usando dos casos:
 - Peor caso: consultamos un código que no exista, así que se recorren todos los nodos y nos devolverá que no existe.
 - Caso intermedio: consultamos un código que está cerca de la mitad de la lista, así que se recorren cerca de la mitad de los nodos.
 
-**Condiciones fijas.** Todas las corridas van en la misma máquina, con el mismo compilador (GCC-6.3.0) y las mismas banderas (-Wall -Wextra -O2).
+**Condiciones fijas.** Todas las corridas van en la misma máquina(11th Gen Intel(R) Core(TM) i5-11400H @ 2.70GHz (2.69 GHz),16GB ram y windows 11), con el mismo compilador (GCC-16.2.0) y las mismas banderas (-Wall -Wextra -O2).
 
 **Qué esperamos ver.** Como la búsqueda recorre la lista, el costo en el peor caso es $T(n) = \Theta(n)$. Por eso esperamos que al duplicar $n$ el tiempo también se duplique:
 
