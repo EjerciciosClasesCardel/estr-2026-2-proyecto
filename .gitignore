@@ -1,5 +1,4 @@
+inventario
+inventario.exe
 *.o
-*.out
-*.exe
-a.out
-codigo/proyecto
+salida_tmp.txt
