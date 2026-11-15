@@ -11,6 +11,13 @@ hizo y qué quedó pendiente. La entrada más reciente va arriba.
 - Qué hicimos:
 - Qué quedó pendiente:
 
+
+## 2026-11-15
+- Quiénes: Alejandro Serna Tovar.
+- Qué hicimos: Implementé y estandaricé `TablaHash.h` y `TablaHash.cpp` (encadenamiento con `ListaArticulos` y hash `h(c) = c mod m`), los moví a `codigo/` y abrí el PR #13 hacia `main`.
+- Qué quedó pendiente: Revisión y fusión del PR #13, integrar `TablaHash` al `Makefile` y correr las pruebas de rendimiento variando `m`.
+
+
 ## 2026-11-02
 
 - Quiénes: Jesús Esteban Monroy
