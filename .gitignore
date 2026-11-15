@@ -3,6 +3,7 @@
 *.exe
 a.out
 codigo/proyecto
+codigo/medir
 
 # Los casos de prueba de datos/ si se suben (*.out arriba es para a.out)
 !datos/*.out
