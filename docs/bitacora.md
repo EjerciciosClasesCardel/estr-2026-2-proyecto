@@ -10,6 +10,12 @@ hizo y qué quedó pendiente. La entrada más reciente va arriba.
 - Quiénes:
 - Qué hicimos:
 - Qué quedó pendiente:
+  
+## 2026-11-15
+
+- Quiénes: Jesús Esteban Monroy
+- Qué hicimos: programa de experimentos `codigo/medir.cpp` (carga n artículos y mide consultas usando solo la interfaz `Inventario`); `Fabrica` y `principal.cpp` con los tipos `hash` y `map` y el número de cubetas; `Makefile` con los objetivos `medir` y `mediciones`; `.gitignore` con el ejecutable `medir`.
+- Qué quedó pendiente: integrar `TablaHash` y `ReferenciaMap`, correr `make mediciones` y escribir el informe final.
 
 ## 2026-11-02
 
