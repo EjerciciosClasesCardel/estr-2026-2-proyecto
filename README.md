@@ -16,14 +16,14 @@ su nota del proyecto es 0.0.
 
 | Nombre completo | Código | Correo institucional | Usuario de GitHub |
 |---|---|---|---|
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
+|Jesus Esteban Monroy Yama|9029007|1085916534@javerianacali.edu.co|Esteban-Monroy|
+|Alejandro Serna Tovar|9030159|alejandrost03@javerianacali.edu.co|AlejandroSernaTovar|
+|Juan Jose Guzman|9030825|Juanguzman07@javerianacali.edu.co|Juangdprog|
 
-**Escenario escogido:** (A inventario / B frecuencias / C turnos / D índice)
+**Escenario escogido:** A — Inventario de una tienda
 
-- Estructura escrita desde cero:
-- Estructura de la biblioteca contra la que se compara:
+- Estructura escrita desde cero: lista enlazada simple con búsqueda lineal por código (avance) y tabla hash con encadenamiento y clave entera, donde cada cubeta es la lista del avance (final).
+- Estructura de la biblioteca contra la que se compara: `std::map`.
 
 ## Lo primero
 
