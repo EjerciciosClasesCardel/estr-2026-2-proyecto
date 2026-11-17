@@ -10,6 +10,18 @@ hizo y qué quedó pendiente. La entrada más reciente va arriba.
 - Quiénes:
 - Qué hicimos:
 - Qué quedó pendiente:
+
+## 2026-11-16
+
+- Quiénes: Jesús Esteban Monroy, Alejandro Serna Tovar
+- Qué hicimos: segunda corrida de `make mediciones` (la primera tuvo un valor anómalo en la lista) y `datos/mediciones.csv` (PR #15); informe final en `docs/informe-final.md` con el análisis formal, los experimentos, el orden de `LISTAR` y las conclusiones (PR #16). Alejandro revisó e integró los dos PR.
+- Qué quedó pendiente: preparar la sustentación.
+
+## 2026-11-15 
+
+- Quiénes: Jesús Esteban Monroy
+- Qué hicimos: `codigo/ReferenciaMap.h` y `codigo/ReferenciaMap.cpp`, el inventario de referencia con `std::map` y la misma interfaz `Inventario` (PR #12).
+- Qué quedó pendiente: integrar `TablaHash`.
   
 ## 2026-11-15
 
