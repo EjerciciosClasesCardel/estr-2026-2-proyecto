@@ -1,6 +1,6 @@
 # Informe final
  
-**Escenario A — Inventario de una tienda.** Integrantes: Jesús Esteban Monroy (9029007), Alejandro Serna Tovar (9030159), Juan José Guzmán (9030825).
+**Escenario A — Inventario de una tienda.** Integrantes: Jesús Esteban Monroy (9029007), Alejandro Serna Tovar (9030159)
  
 ## 1. El escenario y el modelado
  
