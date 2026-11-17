@@ -17,6 +17,13 @@ hizo y qué quedó pendiente. La entrada más reciente va arriba.
 - Qué hicimos: programa de experimentos `codigo/medir.cpp` (carga n artículos y mide consultas usando solo la interfaz `Inventario`); `Fabrica` y `principal.cpp` con los tipos `hash` y `map` y el número de cubetas; `Makefile` con los objetivos `medir` y `mediciones`; `.gitignore` con el ejecutable `medir`.
 - Qué quedó pendiente: integrar `TablaHash` y `ReferenciaMap`, correr `make mediciones` y escribir el informe final.
 
+
+## 2026-11-15
+- Quiénes: Alejandro Serna Tovar.
+- Qué hicimos: Implementé y estandaricé `TablaHash.h` y `TablaHash.cpp` (encadenamiento con `ListaArticulos` y hash `h(c) = c mod m`), los moví a `codigo/` y abrí el PR #13 hacia `main`.
+- Qué quedó pendiente: Revisión y fusión del PR #13, integrar `TablaHash` al `Makefile` y correr las pruebas de rendimiento variando `m`.
+
+
 ## 2026-11-02
 
 - Quiénes: Jesús Esteban Monroy
